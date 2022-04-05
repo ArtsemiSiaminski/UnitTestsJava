@@ -37,7 +37,7 @@ public class Pen {
 
     // ERROR!!! Bug
     public String getColor(){
-        return "BLUE";
+        return color;
     }
 
     public Boolean isWork() {
